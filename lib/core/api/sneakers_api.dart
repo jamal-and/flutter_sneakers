@@ -7,6 +7,7 @@ class SneakersApi {
   final dio = Dio(BaseOptions());
 
   // Mocking the api
+
   SneakersApi() {
     final dioAdapter = DioAdapter(dio: dio);
     dioAdapter.onGet(

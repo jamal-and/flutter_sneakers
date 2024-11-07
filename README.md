@@ -1,2 +1,2 @@
 # flutter_sneakers
-Used MVVM and GetxController as a ViewModel
+Used MVVM (GetxController as a ViewModel)

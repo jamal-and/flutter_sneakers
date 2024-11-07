@@ -1,5 +1,5 @@
 import 'package:get/get.dart';
-import 'package:sneakers_app/core/helpers/key.dart';
+import 'package:sneakers_app/core/helpers/keys.dart';
 import 'package:sneakers_app/core/models/product_model.dart';
 
 class CartController extends GetxController {

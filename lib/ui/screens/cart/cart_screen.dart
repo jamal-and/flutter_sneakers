@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:sneakers_app/core/helpers/constants.dart';
-import 'package:sneakers_app/core/helpers/key.dart';
+import 'package:sneakers_app/core/helpers/keys.dart';
 import 'package:sneakers_app/core/helpers/sizes.dart';
 import 'package:sneakers_app/core/models/product_model.dart';
 import 'package:sneakers_app/ui/screens/cart/cart_controller.dart';
